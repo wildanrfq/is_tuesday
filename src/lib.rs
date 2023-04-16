@@ -1,3 +1,5 @@
+//! A crate to check if the current day is Tuesday.
+
 use chrono::Datelike;
 
 /// The function to check if the current day is Tuesday.
