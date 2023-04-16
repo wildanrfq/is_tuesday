@@ -9,3 +9,7 @@ description = "A crate to check if the current day is Tuesday."
 
 [dependencies]
 chrono = "0.4.24"
+
+[[test]]
+name = "check-test"
+path = "tests/test.rs"
