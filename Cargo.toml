@@ -4,7 +4,7 @@ version = "0.1.1"
 edition = "2021"
 authors = ["wildanrfq"]
 license = "MIT"
-documentation = "https://docs.rs/is_tuesday/0.1.0/is_tuesday/"
+documentation = "https://docs.rs/is_tuesday"
 repository = "https://github.com/danrfq/is_tuesday"
 description = "A crate to check if the current day is Tuesday."
 
